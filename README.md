@@ -155,3 +155,6 @@ Regression
 5. Run notebooks in order:
    - `1_data_eda_visualizations.ipynb`
    - `2_data_modeling.ipynb`
+
+---
+Developed as a machine learning learning project with AI-assisted guidance for coding and debugging. The implementation was assembled, tested, and reviewed by me.
