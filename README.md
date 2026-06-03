@@ -1,6 +1,6 @@
 # 🌆 urban-intelligence
 
-![Python](https://img.shields.io/badge/Python-3.10-blue)
+![Python](https://img.shields.io/badge/Python-3.12-blue)
 ![Scikit-Learn](https://img.shields.io/badge/ML-Scikit--Learn-orange)
 ![Status](https://img.shields.io/badge/Project-Completed-green)
 
@@ -155,7 +155,3 @@ Regression
 5. Run notebooks in order:
    - `1_data_eda_visualizations.ipynb`
    - `2_data_modeling.ipynb`
-
----
-
-## 📂 Project Structure
