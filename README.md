@@ -157,4 +157,4 @@ Regression
    - `2_data_modeling.ipynb`
 
 ---
-Developed as a machine learning learning project with AI-assisted guidance for coding and debugging. The implementation was assembled, tested, and reviewed by me.
+Developed as a machine learning project with AI-assisted guidance for coding and debugging. The implementation was assembled, tested, and reviewed by me.
