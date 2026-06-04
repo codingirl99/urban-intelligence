@@ -134,7 +134,7 @@ Regression
 
 - Expand dataset with more cities  
 - Try XGBoost / LightGBM models  
-- Improve feature engineering (ratios, composite indices)  
+- Improve feature engineering
 - Add geographic clustering analysis  
 
 ---
