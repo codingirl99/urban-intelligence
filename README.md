@@ -25,13 +25,12 @@ The focus is on both prediction and interpretability of urban factors.
 ---
 
 ## 📊 Dataset
-
+- **Source:** Kaggle global-cities-lifestyle-and-tech-infrastructure dataset 
 - **Type:** Tabular dataset (CSV)  
 - **Size:** 24 cities  
-- **Target:** Overall Livability Score  
-
-### Key Features:
-Safety Index, Healthcare Infrastructure, Green Spaces, Cost of Living, Employment Growth, Internet Reliability, Education Quality, Tech Hub Rating, Public Transport, Climate Type, Community Vibe, Migration Rate
+- **Target Variable:** Overall Livability Score  
+- **Key Features:** Safety Index, Healthcare Infrastructure, Green Spaces, Cost of Living, Employment Growth, Internet Reliability, Education Quality, Tech Hub Rating, Public Transport, Climate Type, Community Vibe, Migration Rate
+- **No missing values or duplicates**
 
 ---
 
@@ -49,16 +48,16 @@ Key insights:
 ## 📈 Visualizations
 
 ### Livability Score Distribution
-![Livability Distribution](visualizations/livability_distribution.png)
+![Livability Distribution](visualizations/urban_livability_distribution.png)
 
 ### Safety vs Livability
-![Safety vs Livability](visualizations/safety_vs_livability.png)
+![Safety vs Livability](visualizations/urban_safety_vs_livability.png)
 
 ### Feature Distributions
-![Feature Distributions](visualizations/feature_distributions.png)
+![Feature Distributions](visualizations/urban_feature_distributions_healthcare.png)
 
 ### Correlation Heatmap
-![Correlation Heatmap](visualizations/correlation_heatmap.png)
+![Correlation Heatmap](visualizations/urban_correlation_heatmap.png)
 
 ---
 
@@ -96,12 +95,12 @@ Regression
 ---
 
 ## 📉 Linear Regression Coefficients
-![Linear Regression Coefficients](visualizations/linear_coefficients.png)
+![Linear Regression Coefficients](visualizations/urban_linear_coefficients.png)
 
 ---
 
 ## 🌲 Random Forest Feature Importance
-![Feature Importance](visualizations/rf_feature_importance.png)
+![Feature Importance](visualizations/urban_rf_feature_importance.png)
 
 ---
 
@@ -143,7 +142,7 @@ Regression
 ## 📁 How to Reproduce
 
 1. Clone repository  
-2. Download dataset from Kaggle  
+2. Download dataset from Kaggle: https://www.kaggle.com/datasets/sohaibdevv/global-cities-lifestyle-and-tech-infrastructure
 3. Place file in `/data` folder  
 4. Install dependencies:
    - pandas
