@@ -108,7 +108,7 @@ Regression
 
 - Healthcare infrastructure is the strongest predictor of livability  
 - Safety index is consistently highly influential  
-- Tech hub rating and cost of living also matter significantly  
+- Public transportation and cost of living are also factors that matter significantly  
 - Linear relationships dominate this dataset  
 
 ---
